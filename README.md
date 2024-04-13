@@ -7,14 +7,14 @@
 </div>
   <a href="https://x-md-qr-elctro-wizard.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
+   <img alt="Dark x Shena" height="300" src="https://telegra.ph/file/99274136d75372ace883c.jpg">
               </p>
   </a>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KMqXtMicl9uCgMuduidlXb" target="_blank">
+  <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029Vab12DJCcW4uJvh8Lq2m" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -30,12 +30,6 @@
       
 ## _[Basic usage helper](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki)_
 </div>
-
-### FORK THIS REPO
-
-1. Must Fork This Repo Before Deployment !
-   <br> 
-<a href="https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ### SCAN QR
@@ -67,43 +61,7 @@
     <br>
 <a href='https://app.koyeb.com/apps/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLER]=.&env[BOT_INFO]=X-BOT-MD;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=917012984396&env[STICKER_DATA]=SPARKY&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
-#### DEPLOY ON RAILWAY
-
-1. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/>
-2. Now Deploy
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
-
-
-#### DEPLOY ON MOGENIUS
-
-1. If You don't have a account in Replit. Create a account.
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=genius'/></a>
-2. Now Deploy
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=genius'/></a>
-
-#### DEPLOY TO REPLIT 
-
-1. If You don't have a account in Replit. Create a account.
-    <br>
-<a href='https://www.replit.com/' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit'/></a>
-   <br>
-2. Now Deploy
-    <br>
-<a href='https://bit.ly/X-BOT-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
-
-* Now fork it and enjoy 🗿🙌🏻
-<br>
-
-#### Thanks To
-
-<details close>
-<summary>Read More</summary>
-
+**MORE DEPLOY METHODS COMING SOON**
 <br>
 
 * [`EX-KRIZ`](https://github.com/EX-KRIZ)
